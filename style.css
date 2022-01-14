@@ -1,0 +1,13 @@
+body{
+    background-image: url(459026.jpg);
+}
+
+h1{
+    color: rgb(72, 7, 7);
+    text-align: center;
+    margin-top: 300px;
+    position: relative;
+    font-weight: bolder;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
